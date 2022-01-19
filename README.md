@@ -1,17 +1,17 @@
-# Hi there 👋
+# Hola!! Soy Jonathan 👋
 
 
-**jonsalazar20/jonsalazar20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Soy un entusiasta del Front End trabajo , hare esto para poder subir algunas app's a modo de prueba, estudio y ocio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+Estas son algunas de las herramientas con las cuales he trabajado:
+
+- ⚡ Javascript
+- ⚡ HTML
+- ⚡ CSS
+- ⚡ Angular
+- ⚡ Typescript
+
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonsalazar20&layout=compact)](https://github.com/jonsalazar20/github-readme-stats)
